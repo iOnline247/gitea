@@ -94,12 +94,11 @@ require (
 	github.com/unknwon/paginater v0.0.0-20151104151617-7748a72e0141
 	github.com/urfave/cli v1.20.0
 	github.com/yohcop/openid-go v0.0.0-20160914080427-2c050d2dae53
-	golang.org/x/crypto v0.0.0-20191117063200-497ca9f6d64f
-	golang.org/x/net v0.0.0-20191101175033-0deb6923b6d9
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20191127021746-63cb32ae39b2
-	golang.org/x/text v0.3.2
-	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.3.8
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20150924051756-4e86f4367175 // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
