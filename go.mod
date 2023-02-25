@@ -97,7 +97,7 @@ require (
 	golang.org/x/crypto v0.0.0-20191117063200-497ca9f6d64f
 	golang.org/x/net v0.0.0-20191101175033-0deb6923b6d9
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20191127021746-63cb32ae39b2
+	golang.org/x/sys v0.1.0
 	golang.org/x/text v0.3.2
 	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
